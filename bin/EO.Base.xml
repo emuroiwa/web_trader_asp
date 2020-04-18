@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>EO.Base</name>
+  </assembly>
+  <members>
+    <member name="T:EO.Base.ProxyType">
+      <summary>
+            Specifies proxy type.
+            </summary>
+    </member>
+    <member name="F:EO.Base.ProxyType.HTTP">
+      <summary>
+            The proxy is a HTTP proxy.
+            </summary>
+    </member>
+    <member name="F:EO.Base.ProxyType.Socks4">
+      <summary>
+            The proxy is a SOCKS4 proxy.
+            </summary>
+    </member>
+    <member name="F:EO.Base.ProxyType.Socks4A">
+      <summary>
+            The proxy is a SOCKS4A proxy.
+            </summary>
+    </member>
+    <member name="F:EO.Base.ProxyType.Socks5">
+      <summary>
+            The proxy is a SOCKS5 proxy.
+            </summary>
+    </member>
+    <member name="T:EO.Base.ProxyInfo">
+      <summary>
+            Specifies proxy information.
+            </summary>
+    </member>
+    <member name="M:EO.Base.ProxyInfo.#ctor(EO.Base.ProxyType,System.String,System.Int32,System.String,System.String,System.String)">
+      <summary>
+            Creates a new instance of the <see cref="T:EO.Base.ProxyInfo"></see> class.
+            </summary>
+      <param name="type">The proxy type.</param>
+      <param name="host">The proxy server host name.</param>
+      <param name="port">The proxy server port.</param>
+      <param name="username">The proxy server user name.</param>
+      <param name="password">The proxy server password.</param>
+      <param name="bypass">The bypass host list. For example, you can set it to "localhost,www.yourhost.com" to
+            specify the converter to skip proxy when the host is "localhost" or "www.yourhost.com".</param>
+      <remarks>
+            Pass null (Visual Basic Nothing) for <i>username</i> and <i>password</i> if the
+            proxy does not requires authentication, or the proxy supports NTLM authentication
+            and you intend to use the current user context to authenticate the proxy server.
+            </remarks>
+    </member>
+    <member name="M:EO.Base.ProxyInfo.#ctor(EO.Base.ProxyType,System.String,System.Int32,System.String,System.String)">
+      <summary>
+            Creates a new instance of the <see cref="T:EO.Base.ProxyInfo"></see> class.
+            </summary>
+      <param name="type">The proxy type.</param>
+      <param name="host">The proxy server host name.</param>
+      <param name="port">The proxy server port.</param>
+      <param name="username">The proxy server user name.</param>
+      <param name="password">The proxy server password.</param>
+      <remarks>
+            Pass null (Visual Basic Nothing) for <i>username</i> and <i>password</i> if the
+            proxy does not requires authentication, or the proxy supports NTLM authentication
+            and you intend to use the current user context to authenticate the proxy server.
+            </remarks>
+    </member>
+    <member name="M:EO.Base.ProxyInfo.#ctor(EO.Base.ProxyType,System.String,System.Int32)">
+      <summary>
+            Creates a new instance of the <see cref="T:EO.Base.ProxyInfo"></see> class.
+            </summary>
+      <param name="type">The proxy type.</param>
+      <param name="host">The proxy server host name.</param>
+      <param name="port">The proxy server port.</param>
+      <remarks>
+            This constructor creates a new instance of <see cref="T:EO.Base.ProxyInfo"></see> object
+            without username and password information. If the proxy supports NTLM authentication,
+            then the HTML to PDF converter will automatically uses the current user context to
+            authenticate with the proxy server. If the proxy server requires other form of
+            authentication, then the connection will fail.
+            </remarks>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.Type">
+      <summary>
+            Gets the proxy server type.
+            </summary>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.HostName">
+      <summary>
+            Gets the proxy host name.
+            </summary>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.Port">
+      <summary>
+            Gets the proxy port.
+            </summary>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.UserName">
+      <summary>
+            Gets the proxy username.
+            </summary>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.Password">
+      <summary>
+            Gets the proxy password.
+            </summary>
+    </member>
+    <member name="P:EO.Base.ProxyInfo.Bypass">
+      <summary>
+            Gets the proxy bypass host list.
+            </summary>
+      <remarks>
+            You can separate multiple hosts with " " (space), "," or ";".
+            </remarks>
+    </member>
+  </members>
+</doc>

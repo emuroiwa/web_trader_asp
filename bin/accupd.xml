@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+accupd
+</name>
+</assembly>
+<members>
+<member name="P:accupd.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources._stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.arrow_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.arrow_left1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.arrow_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.arrow_right1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.CreateBeam_FuelTanks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.CreateBeam_FuelTanks1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.db_update">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.db_update1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.easymoblog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.easymoblog1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.edit_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.edit_delete1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.find">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.find1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.gnome_application_exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.home1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.keepassx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.keepassx1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.login_s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.login_s1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.month">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.month1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.people">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.person">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.plus1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.process">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.process1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.recycle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.sharemanager">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.stop1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.ToolStripButton1_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.ToolStripButton11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.yellow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.yellow1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.yellow11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:accupd.My.Resources.Resources.yellow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:accupd.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:accupd.DataSetDFTACC.SYS_DFTACCOUNTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:accupd.DataSetDFTACC.SYS_DFTACCOUNTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:accupd.DataSetDFTACC.SYS_DFTACCOUNTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:accupd.DataSetDFTACC">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:accupd.DataSetDFTACCTableAdapters.SYS_DFTACCOUNTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:accupd.DataSetTranCodes.SYS_TRANCODESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:accupd.DataSetTranCodes.SYS_TRANCODESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:accupd.DataSetTranCodes.SYS_TRANCODESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:accupd.DataSetTranCodes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:accupd.DataSetTranCodesTableAdapters.SYS_TRANCODESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:accupd.DealPostingsEnquiry.ACCTRANSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:accupd.DealPostingsEnquiry.ACCTRANSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:accupd.DealPostingsEnquiry.ACCTRANSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:accupd.DealPostingsEnquiry">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:accupd.DealPostingsEnquiryTableAdapters.ACCTRANSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
